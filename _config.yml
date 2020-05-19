@@ -1,13 +1,13 @@
 # Site settings
-title: HaHa Blog
-SEOTitle: HaHa的博客 | HaHa Blog
+title: ZeroAndOne Blog
+SEOTitle: 零一的博客 | ZeroAndOne Blog
 header-img: img/背景.jpg
-email: qiubaiying@gmail.com
+email: 
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 颜回的博客, YanHui, Java, 后端开发, BigData"
+keyword: "BY, BY Blog, 零一的博客, ZeroAndOne, Java, 后端开发, BigData"
 url: "https://algoricli.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/AlgoricLi/AlgoricLi.github.io" # you code repository
 
 # Sidebar settings
 sidebar: false                           # whether or not using Sidebar.
